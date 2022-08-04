@@ -89,7 +89,7 @@ img {
 .header-list {
   display: flex;
   margin-left: 93px;
-  
+
 
 }
 
@@ -323,6 +323,7 @@ img {
 .what-we-do-item:not(:last-child) {
   margin-right: 30px;
 }
+
 /*---------Team----------*/
 
 .team {
@@ -357,7 +358,7 @@ img {
 }
 
 .team-border {
-  padding-top:  30px;
+  padding-top: 30px;
   padding-bottom: 30px;
 }
 
@@ -390,10 +391,11 @@ img {
 .footer-item {
   margin-bottom: 9px;
 }
- .footer .logo {
+
+.footer .logo {
   display: inline-block;
   margin-bottom: 20px;
- }
+}
 
 .logo {
   font-family: 'Raleway';
